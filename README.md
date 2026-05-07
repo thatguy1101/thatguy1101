@@ -1,11 +1,11 @@
 <div align="center">
   
-  <h1>Hey, I'm Max 👋</h1>
+  <h1>Hey, I'm thatguy 👋</h1>
 
   <img src="https://group-chats.github.io/favicon.png" width="110" height="110" alt="Groups">
   
   <h3>
-    Building <a href="https://group-chats.github.io">Groups</a> — a clean, fast, and simple web messaging app
+    I'm building <a href="https://group-chats.github.io">Groups</a> — a clean, fast, and simple web messaging app
   </h3>
 
   <p>
