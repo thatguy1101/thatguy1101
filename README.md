@@ -3,7 +3,7 @@
   
   <h1>Hey, I'm thatguy 👋</h1>
   
-  <p><strong>Full-stack developer & web craftsman from Perth, Australia 🇦🇺</strong><br>
+  <p><strong>Full-stack developer & web craftsman</strong><br>
   Turning ideas into clean, fast, and beautiful digital experiences.</p>
 
   <a href="https://thatguy1101.github.io" target="_blank">
@@ -23,7 +23,6 @@
 ---
 
 ### 🚀 What I'm Building Now
-I'm in a new chapter — exploring modern web tech, side projects, and leveling up my full-stack skills. Always chasing that perfect blend of **performance**, **design**, and **simplicity**.
 
 - **Currently obsessed with**: Next.js, TypeScript, Tailwind, real-time apps, and clean architecture
 - **Learning focus**: Advanced full-stack patterns, system design, and delightful user experiences
@@ -58,8 +57,6 @@ I'm in a new chapter — exploring modern web tech, side projects, and leveling 
 **→ [thatguy1101.github.io](https://thatguy1101.github.io)**  
 My personal portfolio — clean, fast, and built to showcase what I can do.
 
-*(Add more project cards here as you build them — feel free to ping me for help making nice repo cards!)*
-
 ---
 
 ### 📈 GitHub Stats
@@ -82,19 +79,5 @@ My personal portfolio — clean, fast, and built to showcase what I can do.
 - **Portfolio**: [thatguy1101.github.io](https://thatguy1101.github.io)
 - **Instagram**: [@thatguy060](https://www.instagram.com/thatguy060/)
 - **Discord Server**: [Join here](https://discord.gg/tuCTkpfVhm)
-- **Email**: (add your email if you want)
+- **Email**: thatoneguy10011@gmail.com
 
-> *"Building in public, one clean commit at a time."*
-
----
-
-*Made with ❤️ in Perth, Western Australia*
-
----
-
-**Tips to make it even better:**
-1. Add a cool animated banner/GIF in the `assets/` folder of your profile repo (I referenced one above).
-2. Replace the stats images with your own once you have more activity.
-3. Add new project sections as you build them.
-
-Want me to adjust the tone (more chill, more professional, more hype), add specific projects, or create a dark/light variant? Just say the word and I'll refine it further. This version positions you as an active, skilled dev ready for the next thing. 🚀
