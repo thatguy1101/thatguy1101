@@ -52,13 +52,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-**→ [thatguy1101.github.io](https://thatguy1101.github.io)**  
-My personal portfolio — clean, fast, and built to showcase what I can do.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -76,7 +69,6 @@ My personal portfolio — clean, fast, and built to showcase what I can do.
 
 ### 💬 Let's Connect
 
-- **Portfolio**: [thatguy1101.github.io](https://thatguy1101.github.io)
 - **Instagram**: [@thatguy060](https://www.instagram.com/thatguy060/)
 - **Discord Server**: [Join here](https://discord.gg/tuCTkpfVhm)
 - **Email**: thatoneguy10011@gmail.com
