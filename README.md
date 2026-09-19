@@ -9,9 +9,6 @@
   <a href="https://thatguy1101.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/thatguy060/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://discord.gg/tuCTkpfVhm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -69,7 +66,6 @@
 
 ### 💬 Let's Connect
 
-- **Instagram**: [@thatguy060](https://www.instagram.com/thatguy060/)
 - **Discord Server**: [Join here](https://discord.gg/tuCTkpfVhm)
 - **Email**: thatoneguy10011@gmail.com
 
